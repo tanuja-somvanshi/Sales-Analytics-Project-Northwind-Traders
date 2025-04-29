@@ -18,7 +18,6 @@ The data used in this project comes from the Northwind database, containing sale
 
 # 📑 Table Descriptions
 
-# Table	Description
 Customers	Customer information: company name, contact details, address, and country.
 Employees	Employee profiles: name, title, birth date, hire date, address, and reporting manager.
 Orders	Order transactions: customer ID, employee ID, order and shipping details.
