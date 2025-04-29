@@ -27,6 +27,17 @@ Suppliers	Supplier information: company name, contact details, and home page.
 Shippers	Shipping companies: company names and phone numbers.
 Categories	Product categories: names and descriptions of product groups.
 
+## 🧩 Data Modeling
+
+A **star schema** approach was followed for the data model:
+
+- **Fact Table**:  
+  - `Orders` (joined with `Order Details` for granular sales info)
+
+- **Dimension Tables**:  
+  - `Customers`, `Employees`, `Products`, `Categories`, `Suppliers`, `Shippers`
+  ![Data Model Diagram](![Image](https://github.com/user-attachments/assets/d54f9636-d58b-414c-b1b7-360fd3267bb0))
+
 # 🔍 Exploratory Data Analysis (EDA) Questions
 What factors influence customer retention or loyalty?
 
