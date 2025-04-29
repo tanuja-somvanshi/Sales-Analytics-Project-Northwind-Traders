@@ -105,4 +105,26 @@ Download the dataset or connect to your own Northwind database.
 
 Open the Power BI file (.pbix) provided.
 
-Explore the dashboard using slicers, filters, and visual.
+Explore the dashboard using slicers, filters, and visualizations.
+
+Feel free to customize or extend the analysis based on business requirements!
+
+# 📌 Project Highlights
+Interactive dashboard with slicers for dynamic filtering.
+
+KPIs showcasing real-time business metrics.
+
+Trend analysis and distribution analysis across multiple entities.
+
+Customer segmentation and employee performance tracking.
+
+Supplier performance optimization insights.
+
+# 🤝 Contributions
+Contributions, feedback, and suggestions are welcome!
+Feel free to fork the repository, create a new branch, and submit a pull request.
+
+# 📧 Contact
+If you have any questions or suggestions about this project, feel free to reach out!
+
+
