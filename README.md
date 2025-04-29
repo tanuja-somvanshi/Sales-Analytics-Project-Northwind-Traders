@@ -36,7 +36,7 @@ A **star schema** approach was followed for the data model:
 
 - **Dimension Tables**:  
   - `Customers`, `Employees`, `Products`, `Categories`, `Suppliers`, `Shippers`
-  ![Data Model Diagram](![Image](https://github.com/user-attachments/assets/d54f9636-d58b-414c-b1b7-360fd3267bb0))
+ ![Image](https://github.com/user-attachments/assets/d54f9636-d58b-414c-b1b7-360fd3267bb0)
 
 # 🔍 Exploratory Data Analysis (EDA) Questions
 What factors influence customer retention or loyalty?
